@@ -3,7 +3,10 @@
 }
 .nav li {
   display: inline-block;
-  color: #cccccc;
+  background-color: #cccccc;
+  font-size: 2em;
+  color: #fff;
+ 
 }
 .nav-left {
   float: left;
