@@ -1,4 +1,13 @@
-#p {
-  font-color: purple;
-  font-size: 5em;
+.body {
+  width: 80%;
+}
+.nav li {
+  display: inline-block;
+  color: #cccccc;
+}
+.nav-left {
+  float: left;
+}
+.nav-right {
+  float: right;
 }
